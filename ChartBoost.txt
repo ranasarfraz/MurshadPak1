@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.monster.truck.jam.truck4x4derby.crashdestruction4x4derby.mad.truck.driving.monster.legends2021",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extreme.simulator.police.formula.car.crash.derby.demolisher.fearless.stunts.games2020"
+    "FirstGameBundleID":"com.extremesimulator.city.train.cityconstruction.railwayconstruction.truck.drive.games",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.extremesimulator.city.train.cityconstruction.railwayconstruction.truck.drive.games",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.excavator.construction.houseconstruction.cityconstruction.truckgames"
 }
 
