@@ -1,7 +1,7 @@
 {
   	"Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.offroadcargame.jeep.drivingschool.car.driving.games",
-	"Gameurl2": "https://play.google.com/store/apps/details?id=com.extremesimulator.power.wash.washsimulator.washing.pressurewashing.carwash.cleaning.games",
+	"Gameurl2": "https://play.google.com/store/apps/details?id=com.gls.offroad.bus.driving.games.uphill.dangerous.bus.simulator.parking",
 	"Gameurl3": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame",
-	"Gameurl4": "https://play.google.com/store/apps/details?id=com.extreme.simulator.demolition.derby.monster.bus.destruction.battle.arena.crash.stunts2020"
+	"Gameurl4": "https://play.google.com/store/apps/details?id=com.gls.cargotruck.offroadtrucksimulator.offroadtruckgames"
     
 }
