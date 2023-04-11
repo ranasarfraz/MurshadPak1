@@ -1,7 +1,7 @@
 
 {
     "FirstGameBundleID":"com.gls.bmx.bike.riding.offroad.cycling.games.xtreme.bmx.rider.games",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.gls.bmx.bike.riding.offroad.cycling.games.xtreme.bmx.rider.games",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.bmx.cycle.race.xtremeoffroad.bmxrider.stunts.highway.cycle.bmxgames",
     "Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame"
 }
 
