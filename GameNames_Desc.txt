@@ -6,6 +6,6 @@
 	"GameName3": "Ultimate Truck Simulator Games",
 	"GameDesc3": "American Truck Simulator Game, Welcome to Euro truck driving simulator offroad cargo delivery truck game and oil tanker transport euro highway truck games. You want to know how feels of 18 wheeler driving of euro highway truck simulator game in American truck driving delivery truck simulator game. ",
 	"GameName4": "Euro Truck Driving Transport",
-	"GameDesc4": "Welcome to our Heavy Truck Delivery simulator Game 2023. Would you like to play cargo truck simulator games 2022 or want to drive truck simulator 3D truck game 2023 is not a simple Cargo truck driving transport truck driving cargo simulator game. Welcome to our Heavy Truck Delivery simulator Game 2023. Would you like to play cargo truck simulator games 2022 or want to drive truck simulator 3D truck game 2023 is not a simple Cargo truck driving transport truck driving cargo simulator game."
+	"GameDesc4": "Welcome to our Heavy Truck Delivery simulator Game 2023. Would you like to play cargo truck simulator games 2022 or want to drive truck simulator 3D truck game 2023 is not a simple Cargo truck driving transport truck driving cargo simulator game."
     
 }
