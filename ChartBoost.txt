@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.fpgs.bmx.cycle.race.xtremeoffroad.bmxrider.stunts.highway.cycle.bmxgames",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.bmx.cycle.race.xtremeoffroad.bmxrider.stunts.highway.cycle.bmxgames",
+    "FirstGameBundleID":"com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
     "Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame"
 }
 
