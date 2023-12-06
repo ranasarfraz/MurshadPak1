@@ -1,7 +1,6 @@
-
 {
-    "FirstGameBundleID":"com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
-    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.vegas.gangster.theft.simulator.city.auto.mafia.crime.games",
-    "Gameurl2": "https://play.google.com/store/apps/details?id=com.fpgs.trucksimulator.truckgame.truckdriving.oiltankertransporter.eurotrucksimulator.truckgame"
+    "FirstGameBundleID":"com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown",
+    "Gameurl1": "https://play.google.com/store/apps/details?id=com.fpgs.spiderboy.ropehero.vegascity.bikeracing.vicetown",
+    "Gameurl2": "https://play.google.com/store/apps/details?id=com.es.flyingbatboy.indian.bikes.ridding.racing.game"
 }
 
